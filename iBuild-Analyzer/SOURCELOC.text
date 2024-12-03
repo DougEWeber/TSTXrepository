@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+TSTXLIVE objects:
+    Objects with source in library TSTXSRC: 14
+
+Detail report:
+TSTXLIVE objects:
+    Objects with source in library TSTXSRC:
+        *MODULE RPGLE   TSTXLIVE/CUSMAIN                    
+        *FILE DSPF      TSTXLIVE/MAINMENU                   
+        *MODULE RPGLE   TSTXLIVE/CUSMNT                     
+        *FILE LF        TSTXLIVE/CUSMSTL1                   
+        *FILE PF        TSTXLIVE/CUSMST                     
+        *FILE DSPF      TSTXLIVE/MNTMENU                    
+        *MODULE RPGLE   TSTXLIVE/SCHNAM                     
+        *FILE LF        TSTXLIVE/CUSMSTL3                   
+        *FILE DSPF      TSTXLIVE/SCHNAMD                    
+        *MODULE RPGLE   TSTXLIVE/SCHZIP                     
+        *FILE LF        TSTXLIVE/CUSMSTL2                   
+        *FILE DSPF      TSTXLIVE/SCHZIPD                    
+        *PGM RPGLE      TSTXLIVE/SCHNAMRPG                  
+        *CMD            TSTXLIVE/CUSTMAINT                  
+End of Source Location Report.
